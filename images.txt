@@ -1,1 +1,1 @@
-xhofe/alist
+dorowu/ubuntu-desktop-lxde-vnc:latest
