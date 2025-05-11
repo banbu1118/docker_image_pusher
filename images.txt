@@ -1,1 +1,1 @@
-ghcr.io/pocket-id/pocket-id
+bolkedebruin/rdpgw
