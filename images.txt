@@ -1,1 +1,1 @@
-bolkedebruin/rdpgw
+dexidp/dex:latest
