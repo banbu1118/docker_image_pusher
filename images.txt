@@ -1,1 +1,1 @@
-ghcr.io/dexidp/dex
+dexidp/dex
