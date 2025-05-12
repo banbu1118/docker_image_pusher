@@ -1,1 +1,1 @@
-dexidp/dex:latest
+ghcr.io/dexidp/dex
