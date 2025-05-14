@@ -1,2 +1,1 @@
-osixia/openldap:latest
-bitnami/dex:latest
+nginx:latest
