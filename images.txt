@@ -1,1 +1,1 @@
-umis/xubuntu-office-xrdp-desktop:v2.0
+diegogslomp/samba-ad-dc:latest
