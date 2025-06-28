@@ -1,1 +1,1 @@
-flcontainers/guacamole
+ntop/ntopng:latest
