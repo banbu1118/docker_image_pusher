@@ -1,1 +1,1 @@
-guacamole/guacd
+guacamole/guacd:1.5.0
