@@ -1,1 +1,2 @@
-guacamole/guacd:1.5.0
+machines/filestash:latest
+collabora/code:24.04.10.2.1
