@@ -1,2 +1,1 @@
-machines/filestash:latest
-collabora/code:24.04.10.2.1
+bolkedebruin/rdpgw:latest
